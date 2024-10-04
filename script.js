@@ -88,7 +88,17 @@ document.addEventListener('DOMContentLoaded', () => {
                     statement: 'A positive charged ion.', 
                     term: 'cation',
                     image: 'Images/Chem/Chem6.png' // Updated image path
-                }
+                },
+	 	{ statement: 'The state of matter that has a fixed shape and volume.', term: 'solid' },
+     	        { statement: 'The state of matter that takes the shape of its container.', term: 'liquid' },
+                { statement: 'The smallest unit of a chemical element.', term: 'atom' },
+                { statement: 'The substance that dissolves in a liquid to form a solution.', term: 'solute' },
+                { statement: 'The chemical element that is important for breathing and makes up part of water.', term: 'oxygen' },
+                { statement: 'The change of state from a liquid to a gas.', term: 'evaporation' },
+                { statement: 'The substance that is used to put out fires and is a compound of hydrogen and oxygen.', term: 'water' },
+                { statement: 'The process when a solid turns directly into a gas without becoming a liquid.', term: 'sublimation' },
+                { statement: 'The type of mixture where you can see different parts, like a salad.', term: 'heterogeneousmixture' },
+                { statement: 'The process by which a substance changes from a solid to a liquid.', term: 'melting' }
             ],
             physics: [
                 { 
